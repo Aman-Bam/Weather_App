@@ -26,10 +26,7 @@ A beautiful and responsive weather forecast web app built with **HTML**, **CSS**
 
 ## 🖼️ Demo
 
-Try the live version (if hosted):  
-👉 [Live Demo](#) *(Add your GitHub Pages/Netlify/Vercel link here)*
-
----
+👉 [Live Demo] (https://aman-bam.github.io/Weather_App/)
 
 ## 🛠️ Technologies Used
 
